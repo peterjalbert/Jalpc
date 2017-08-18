@@ -1,22 +1,36 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
-
-- name: Google
-  i18n: google
-  url: https://google.com
+- name: Grocer
+  i18n: grocer
+  url: https://grocer.turtlecruiser.com
   img: /static/assets/img/landing/google.png
-  desc: This is another project.
+  desc: Web application that calculates the cost of a user’s grocery bill by using data scraped from major grocery chains. Lets users create a grocery list by searching an autocomplete field generated from database queries, and indicates whether the total is within the budget.
+
+- name: PyTorch Memory Module
+  i18n: memory
+  gh_user: RUSH-LAB
+  repo: LSH_Memory
+  img: /static/assets/img/landing/jekyll.png
+  desc: PyTorch memory module implementation of the Google Brain paper "Learning to Remember Rare Events". Contributed to the project as part of the Rice University Data Science Summer Program 2017.
+
+- name: The Chipotle Finder
+  i18n: chipotle
+  url: https://chipotle-finder.herokuapp.com/home.html
+  img: /static/assets/img/landing/google.png
+  desc: Web application that finds the nearest Chipotle Mexican Grills and Starbucks to your current location. Created using HTML, Javascript, Heroku, and Google Maps API.
+  
+- name: NBA One vs. One
+  i18n: nba
+  url: https://one-v-one.herokuapp.com/
+  img: /static/assets/img/landing/google.png
+  desc: Web application that simulates a basketball match between two players of choice. The simulation uses statistical data recorded from NBA games. Created using Python, Flask, HTML, Heroku.
+
+#- name: Jalpc
+#  i18n: jalpc
+#  gh_user: jarrekk
+#  repo: Jalpc
+#  img: /static/assets/img/landing/jekyll.png
+#  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+
