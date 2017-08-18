@@ -12,7 +12,7 @@
   i18n: memory
   gh_user: RUSH-LAB
   repo: LSH_Memory
-  img: /static/assets/img/landing/jekyll.png
+  img: /static/assets/img/landing/pytorch.jpg
   desc: PyTorch memory module implementation of the Google Brain paper "Learning to Remember Rare Events". Contributed to the project as part of the Rice University Data Science Summer Program 2017.
 
 - name: The Chipotle Finder
