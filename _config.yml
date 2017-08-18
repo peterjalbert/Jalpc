@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Peter
+title: Peter Jalbert
 description: Peter's personal website.
 keywords: Peter
 baseurl:  / # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
