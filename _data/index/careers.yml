@@ -4,10 +4,10 @@
     detail: McNair Center for Entrepreneurship and Innovation
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: Building software tools and research tools to assist in research on domestic startup activity. Projects include large scale web crawlers to create datasets on startup cohorts, algorithmic design to visualize geographic clusters of venture-capital backed companies, and a classifier to label companies with their field based on a company description.
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Sept. 2016 - Present
     i18n: company_a_date
   job:
     detail: Software Development Intern
@@ -18,10 +18,10 @@
     detail: Rice University, RUSH Lab
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: Conducted original research in Computer Vision and Machine Learning. Developed a novel neural network architecture that used a single network to divide images into superclasses, and then used a network for each superclass to complete classification. Achieved 60% accuracy on CIFAR-100, and 77% accuracy on the superclasses of CIFAR-100. Contributed to an open source, PyTorch implementation of an one-shot learning memory module designed by Google Brain.
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: May - Aug. 2017
     i18n: company_b_date
   job:
     detail: Undergraduate Researcher
