@@ -5,7 +5,7 @@
 - name: Grocer
   i18n: grocer
   url: https://grocer.turtlecruiser.com
-  img: /static/assets/img/landing/google.png
+  img: /static/assets/img/landing/grocer.png
   desc: Web application that calculates the cost of a user’s grocery bill by using data scraped from major grocery chains. Lets users create a grocery list by searching an autocomplete field generated from database queries, and indicates whether the total is within the budget.
 
 - name: PyTorch Memory Module
@@ -18,13 +18,13 @@
 - name: The Chipotle Finder
   i18n: chipotle
   url: https://chipotle-finder.herokuapp.com/home.html
-  img: /static/assets/img/landing/google.png
+  img: /static/assets/img/landing/chipotle.png
   desc: Web application that finds the nearest Chipotle Mexican Grills and Starbucks to your current location. Created using HTML, Javascript, Heroku, and Google Maps API.
   
 - name: NBA One vs. One
   i18n: nba
   url: https://one-v-one.herokuapp.com/
-  img: /static/assets/img/landing/google.png
+  img: /static/assets/img/landing/nba.jpg
   desc: Web application that simulates a basketball match between two players of choice. The simulation uses statistical data recorded from NBA games. Created using Python, Flask, HTML, Heroku.
 
 #- name: Jalpc
