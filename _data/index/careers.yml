@@ -1,5 +1,35 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+
+- name:
+    detail: Facebook
+    i18n: facebook
+  desc:
+    detail: Data Engineering Intern on the News Feed Integrity Team.
+    i18n: company_a_desc
+  date:
+    detail: Sept. 2016 - Present
+    i18n: company_a_date
+  job:
+    detail: Data Engineering Intern
+    i18n: company_a_job
+  icon: fa-plus-square
+  
+  
+- name:
+    detail: Rice University, COMP 182
+    i18n: company_a
+  desc:
+    detail: Teaching Assistant for COMP 182, Algorithmic Thinking, Rice University's rigorous exploration of algorithms, discrete math, and programming. The class covers graph algorithms, greedy algorithms, probabilistic algorithms, dynamic programming, and real world applications of these algorithms in Python. Responsibilities included overseeing grading, answering student questions in weekly office hours, and assisting in weekly labs for over 250 undergraduates.
+    i18n: company_a_desc
+  date:
+    detail: Jan. 2018 - May 2018
+    i18n: company_a_date
+  job:
+    detail: Teaching Assistant
+    i18n: company_a_job
+  icon: fa-plus-square
+  
 - name:
     detail: McNair Center for Entrepreneurship and Innovation
     i18n: company_a
